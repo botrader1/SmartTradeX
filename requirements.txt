@@ -2,4 +2,3 @@ streamlit
 pandas
 prophet
 yfinance
-sqlite3
